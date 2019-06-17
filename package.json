@@ -1,0 +1,23 @@
+{
+  "name": "todo_project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "mobx": "^5.10.1",
+    "mobx-react": "^6.0.3",
+    "react": "^16.8.6",
+    "react-app-rewire-mobx": "^1.0.9",
+    "react-app-rewired": "1.6.2",
+    "react-dom": "^16.8.6",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
